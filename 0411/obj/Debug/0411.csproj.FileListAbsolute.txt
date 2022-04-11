@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\B10956004\Csharp\0411\0411\bin\Debug\0411.exe.config
+C:\Users\user\source\repos\B10956004\Csharp\0411\0411\bin\Debug\0411.exe
+C:\Users\user\source\repos\B10956004\Csharp\0411\0411\bin\Debug\0411.pdb
+C:\Users\user\source\repos\B10956004\Csharp\0411\0411\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\user\source\repos\B10956004\Csharp\0411\0411\obj\Debug\0411.csprojAssemblyReference.cache
+C:\Users\user\source\repos\B10956004\Csharp\0411\0411\obj\Debug\_0411.Form1.resources
+C:\Users\user\source\repos\B10956004\Csharp\0411\0411\obj\Debug\_0411.Properties.Resources.resources
+C:\Users\user\source\repos\B10956004\Csharp\0411\0411\obj\Debug\0411.csproj.GenerateResource.cache
+C:\Users\user\source\repos\B10956004\Csharp\0411\0411\obj\Debug\0411.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\B10956004\Csharp\0411\0411\obj\Debug\0411.csproj.CopyComplete
+C:\Users\user\source\repos\B10956004\Csharp\0411\0411\obj\Debug\0411.exe
+C:\Users\user\source\repos\B10956004\Csharp\0411\0411\obj\Debug\0411.pdb
